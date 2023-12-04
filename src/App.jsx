@@ -1,3 +1,4 @@
+import Nav from "./components/Nav";
 import {
   CustomerReviews,
   Footer,
@@ -7,8 +8,7 @@ import {
   SpecialOffer,
   Subscribe,
   SuperQuality,
-} from "./sections/index";
-import Nav from "./components/Nav";
+} from "./sections";
 
 const App = () => {
   return (
