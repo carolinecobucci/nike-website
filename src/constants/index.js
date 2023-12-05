@@ -108,8 +108,6 @@ export const footerLinks = [
       { name: "Air Max 1", link: "/" },
       { name: "Air Jordan 1", link: "/" },
       { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
     ],
   },
   {
@@ -117,7 +115,6 @@ export const footerLinks = [
     links: [
       { name: "About us", link: "/" },
       { name: "FAQs", link: "/" },
-      { name: "How it works", link: "/" },
       { name: "Privacy policy", link: "/" },
       { name: "Payment policy", link: "/" },
     ],
